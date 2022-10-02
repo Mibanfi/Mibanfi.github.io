@@ -1,0 +1,81 @@
+:root {
+    --main-color: black;
+}
+
+@font-face {
+    font-family: 'handwritten';
+    src: url('/home/mibanfi/Documents/Scuola/HandwritingCR Medium.ttf');
+}
+
+body {
+    margin: 20px;
+}
+
+html, form, fieldset, table, tr, td, img {
+    font-family: 'handwritten';
+}
+
+input, button, select, textarea, optgroup, option {
+    font-family: inherit;
+    font-size: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+}
+
+h1, h2, h3, h4, b {
+    color: var(--main-color);
+}
+
+.vstable {
+    border-style: none;
+    width: 100%;
+    text-align: center;
+}
+
+.vsth {
+    width: 40%;
+    font-size: 16pt;
+    font-weight: 400;
+    font-style: bold;
+    border-bottom-style: solid;
+    border-bottom-color: var(--main-color);
+}
+
+td {
+    padding: 5pt;
+}
+
+.vs {
+    width: 20%;
+    font-size: 32pt;
+    font-weight: 800;
+    text-style: bold;
+    color: var(--main-color);
+}
+
+ul {
+  list-style: none; /* Remove default bullets */
+}
+
+ul li::before {
+  content: "\27A4";  /* Add content: \2022 is the CSS Code/unicode for a bullet, \11208 is the unicode for a triangle */
+  color: var(--main-color); /* Change the color */
+  font-weight: bold; /* If you want it to be bold */
+  display: inline-block; /* Needed to add space between the bullet and the text */
+  width: 2em; /* Also needed for space (tweak if needed) */
+  margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
+
+.box {
+    padding: 5px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: var(--main-color);
+    border-radius: 5px;
+}
+
+.box::before {
+    content: "NOTA \00000a";
+    color: var(--main-color);
+    font-weight: bold;
+}
