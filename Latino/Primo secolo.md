@@ -1,5 +1,5 @@
 <head>
-	<link rel="stylesheet" href="/home/mibanfi/Documents/Scuola/Default.css">
+	<link rel="stylesheet" href="../Default.css">
 	<style>
 		body {
 		--main-color: green;
@@ -32,7 +32,7 @@ Ebbe quattro mogli di cui, secondo gli storici, era succube; tra queste **Messal
 ##Nerone
 <big>54 - 68</big>  
 
-Ebbe come moglie **Ottaviana** e come consigliere [**Seneca**](file:///home/mibanfi/Documents/Scuola/Latino/Seneca.html); causò la morte di entrambi (Ottaviana tramite un calcio nello stomaco, Seneca con un "invito" al suicidio). Mise a morte anche **Burro**, il capo dei pretoriani.  
+Ebbe come moglie **Ottaviana** e come consigliere [**Seneca**](file://../Latino/Seneca.html); causò la morte di entrambi (Ottaviana tramite un calcio nello stomaco, Seneca con un "invito" al suicidio). Mise a morte anche **Burro**, il capo dei pretoriani.  
 
 Nonostante la sua fama sanguinaria, ebbe anche dei meriti: ad esempio, riaprì il mecenatismo e fece rifiorire l'arte a Roma.  
 

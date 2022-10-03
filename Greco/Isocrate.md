@@ -1,5 +1,5 @@
 <head>
-	<link rel="stylesheet" href="/home/mibanfi/Documents/Scuola/Default.css">
+	<link rel="stylesheet" href="../Default.css">
 	<style>
 		body {
 		--main-color: purple;

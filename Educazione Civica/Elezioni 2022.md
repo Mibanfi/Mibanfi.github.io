@@ -1,5 +1,5 @@
 <head>
-		<link rel="stylesheet" href="/home/mibanfi/Documents/Scuola/Default.css">
+		<link rel="stylesheet" href="../Default.css">
 </head>
 #Elezioni Politiche - 25 settembre 2022
 ##Coalizioni
