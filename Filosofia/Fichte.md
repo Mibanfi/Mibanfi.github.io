@@ -11,7 +11,7 @@
 
 ##La vita
 <big>1782 - 1814</big>  
-La sua vita attraverò varie citta, soprattutto nel territorio germanico e a Zurigo.  
+La sua vita attraversò varie citta, soprattutto nel territorio germanico e a Zurigo.  
 Crebbe durante il periodo di affermazione della filosofia Kantiana (la Critica della Ragion Pratica venne pubblicata nel 1790)  e ne fu profondamente plasmato:  
 > Io vivo in un mondo nuovo dacchè ho letto la “Critica della ragion pratica”. Principi che credevo inconfutabili mi sono stati smentiti; cose che io non credevo potessero mai essere dimostrate, per esempio il concetto dell’assoluta libertà, del dovere ecc., mi sono state dimostrate ed io mi sento per ciò assai più contento. È inconcepibile quale rispetto per l’umanità, quale forza, ci dà questo sistema.
 >> -Johann Gottlieb Fichte, *Lettera*  
@@ -24,7 +24,7 @@ Nella filosofia di Fichte, tramandata nella sua opera <b>Dottrina della Scienza<
 ###L'Io Puro
 La filosofia idealista orbita attorno al Soggetto, denominato dai vari autori anche Idea, Ragione, Assoluto e Io Puro.  
 
-Nel criticismo di Kant il soggetto, l'**io penso**, è legislatore dell'esperienza, poiché gestisce la conoscenza acquisita tramite i sensi; è categoria delle categorie, poiché racchiude in sé tutte le categorie dell'intelletto; è un principio formale di conoscenza, poiché dà forma ai dati sensibili; è *finito*, poiché è limitato al monto fenomenico. Fichte lo definisce inoltre una *autodeterminazione esistenziale*.  
+Nel criticismo di Kant il soggetto, l'**io penso**, è legislatore dell'esperienza, poiché gestisce la conoscenza acquisita tramite i sensi; è categoria delle categorie, poiché racchiude in sé tutte le categorie dell'intelletto; è un principio formale di conoscenza, poiché dà forma ai dati sensibili; è *finito*, poiché è limitato al mondo fenomenico. Fichte lo definisce inoltre una *autodeterminazione esistenziale*.  
 
 Fichte riprende l'idea del soggetto come protagonista della filosofia, ma a differenza di quello kantiano, che aveva una giurisdizione esclusivamente gnoseologica, quello di Fichte è metafisico. L'Io Fichtiano, che ha l'iniziale maiuscola, è non solo principio formale di conoscenza, ma anche principio materiale di esistenza della realtà: tutto esiste in e per esso, la realtà ne è il sottoinsieme e l'effetto al tempo stesso.
 
@@ -64,5 +64,3 @@ La volontà dell'uomo di essere libero si realizza, oltre che nel rapporto con l
 L'<a>istruzione</a> e l'educazione sono gli strumenti necessari per raggiungere la libertà, ma affinché funzionino devono essere **fatti collettivi**, altrimenti il confronto sarebbe impossibile. Pertanto lo Stato, il cui fine è il bene comune e quindi la libertà stessa, [è tenuto a prendersene cura](../Maturità.html#istruzione-pubblica) . Lo Stato ha inoltre il compito di affermare la razionalità dell'Io Puro tramite le leggi, che gli permettono di autodeterminarsi secondo essa.  
 
 <div class="box">Secondo Fichte, la Germania potrebbe diventare guida e promotrice dell'intera umanità in virtù della sua lingua, che è rimasta costante nel tempo. Questo sentire romantico e patriottico ben si colloca nel diciannovesimo secolo in cui visse il filosofo.</div>
-
-<script> window.scroll(0,200000) </script> 
