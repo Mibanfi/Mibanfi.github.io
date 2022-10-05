@@ -72,4 +72,8 @@
 ###Istruzione pubblica
 * Secondo [Fichte](Filosofia/Fichte.html#istruzione), lo Stato è tenuto a prendersi cura dell'istruzione poiché essa dev'essere un fatto comune al fine di permettere il confronto e raggiungere la libertà.
 
+###Infierire sui vinti
+* Il [trattato di Versailles](Storia/Prima guerra mondiale.html#il-trattato-di-versailles) causò l'ascesa di Htiter (e quindi la seconda guerra mondiale) con le sue sanzioni pesantissime.
+* A Roma vigeva il detto "parcere subiectis, debellare superbos" e molti leader romani utilizzarono la *clementia* per non farsi troppi nemici.
+
 <script> window.scroll(0,200000) </script> 
