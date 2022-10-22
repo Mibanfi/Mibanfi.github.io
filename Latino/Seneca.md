@@ -16,5 +16,3 @@ Nacque a **Cordova** (città spagnola seguace di Pompeo e ridotta all'obbedienza
 In età adulta fu un oratore di successo a Roma fino a quando Caligola, infastidito dai suoi successi in una disciplina che non sarebbe neanche dovuta esistere in un'autocrazia come la sua, lo condannò a morte. Di solito il decreto dell'Imperatore era inevitabile, ma un'amante di Caligola riuscì a convincerlo che Seneca era molto malato e aveva pochi anni da vivere, e la condanna fu annullata. La menzogna convinse Caligola abbastanza a lungo da proteggere Seneca almeno fino a quando l'Imperatore fu assassinato, e non ci fu più da preoccuparsi.  
 
 Ma da lì in poi non fu tutto rose e fiori. L'autore non fu in buoni rapporti neppure con Claudio, e finì per essere incastrato ed esiliato dall'Imperatrice Messalina. Seneca non prese bene la cosa e, benché affermasse di non avere nulla da preoccuparsi in virtù dei suoi principi stoici, si lagnò visibilmente della sua condizione in alcune **lettere**.
-
-<script> window.scroll(0,200000) </script> 
