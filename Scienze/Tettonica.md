@@ -72,6 +72,7 @@ La litosfera è costituita da 17-20 placche che galleggiano sull'astenosfera. Es
 
 ###La teoria di Wegener o della deriva dei continenti
 Indizi per la teoria:
+
 * La forma dell'Africa continentale combacia con quella del Sud America
 * Sono stati trovati gli stessi fossili in continenti lontanissimi, ma solo tra quelli risalenti a più di 200 milioni di anni fa.
 
@@ -86,6 +87,7 @@ Da ciò Wegener ha dedotto che i continenti si sono allontanati e in un passato 
 
 ###I margini convergenti
 Vi sono tre situazioni che possono verificarsi in corrispondenza di un margine convergente:
+
 * Crosta continentale contro crosta continentale: avviene l'**orogenesi**. I margini si scontrano, sollevandosi e dando origine a una catena montuosa.
 	* La **catena himalayana**, ad esempio, è tuttora in crescita orogenetica.
 	* Affinché sul nuovo suolo si formi la terra, è necessario che prima arrivino gli **organismi pionieri**, minuscole forme di vita che fertilizzano l'area e consentono alle piante di nascere.
