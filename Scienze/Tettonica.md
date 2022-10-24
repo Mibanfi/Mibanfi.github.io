@@ -67,4 +67,33 @@ Un esempio di isostasia sono le formazioni di grandi ghiacciai che "caricano" le
 ##Il flusso termico
 Il nucleo, come abbiamo visto, genera calore tramite decadimento nucleare; questo calore si diffonde fino alla superficie terrestre, disperdendosi non omogeneamente a seconda delle condizioni del mantello superiore.
 
-<script> this.scroll(0,200000) </script> 
+##Le placche litosferiche
+La litosfera è costituita da 17-20 placche che galleggiano sull'astenosfera. Esse possono interagire avvicinandosi, allontanandosi o scorrendo e in base a questo vengono denominate **convergenti**, **divergenti** o **trasformi**; i vulcani si trovano spesso in corrispondenza di queste ultime. Le placche si possono inoltre distinguere tra **solo oceaniche**, **perlopiù continentali** o **miste** a seconda della loro composizione.
+
+###La teoria di Wegener o della deriva dei continenti
+Indizi per la teoria:
+* La forma dell'Africa continentale combacia con quella del Sud America
+* Sono stati trovati gli stessi fossili in continenti lontanissimi, ma solo tra quelli risalenti a più di 200 milioni di anni fa.
+
+Da ciò Wegener ha dedotto che i continenti si sono allontanati e in un passato remoto erano tutti uniti a formare un unico grande continente, la **Pangea**. In futuro potrebbe venire sviluppata una nuova teoria, ma per ora questa è l'unica a spiegare certi fenomeni, tra cui appunto la questione dei fossili e la distribuzione dei vulcani. Questi ultimi infatti nascono naturalmente in corrispondenza della spaccatura tra due placche, anche se esistono dei **punti caldi** inel mezzo delle placche che danno comunque origine a fenomeni vulcanici. Gli atolli corallini, tra l'altro, si formano proprio in corrispondenza dei vulcani sommersi dall'oceano, e ospitano numerosi microrganismi che producono rocce coralline.
+
+![Mappa di Wegener](./wegener.jpg)
+
+####La triade delle teorie della litosfera
+* Teoria della tettonica a placche
+* Teoria di Wegener o della deriva dei continenti
+* Teoria della subduzione dei fondali oceanici
+
+###I margini convergenti
+Vi sono tre situazioni che possono verificarsi in corrispondenza di un margine convergente:
+* Crosta continentale contro crosta continentale: avviene l'**orogenesi**. I margini si scontrano, sollevandosi e dando origine a una catena montuosa.
+	* La **catena himalayana**, ad esempio, è tuttora in crescita orogenetica.
+	* Affinché sul nuovo suolo si formi la terra, è necessario che prima arrivino gli **organismi pionieri**, minuscole forme di vita che fertilizzano l'area e consentono alle piante di nascere.
+* Crosta oceanica contro crosta continentale: Siccome la crosta oceanica è più pesante, avviene la **subduzione**, che dà origine a una **fossa oceanica** e a una serie di vulcani nota come **arco magmatico**.
+* Crosta oceanica contro crosta oceanica: avviene sempre la subduzione, dove la placca più pesante si inabissa sotto quella più leggera (la crosta oceanica, infatti, è troppo densa per causare orogenesi). In mancanza di terraferma, l'arco magmatico che si viene a formare è **insulare**.  
+
+###I margini divergenti
+	Vedere pagine 120-121
+
+###I margini trasformi
+Due lembi di litosfera che scorrono in direzioni opposte, o nella stessa direzione ma con velocità differenti, sono detti **trasformi**. Essi sono anche detti **conservativi** poiché non producono ne affondano porzioni di litosfera, ma la pressione causata dallo scorrimento genera **terremoti** e **rocce metamorfiche**.
