@@ -49,6 +49,8 @@
 * L'[Io Puro che pone il *non io*](Filosofia/Fichte.html#antitesi) per avere qualcosa con cui confrontarsi e per riconoscersi, in Fichte
 * "La guerra è madre di tutte le cose, di tutte regina" in Eraclito
 * Apparentemente l'atto sessuale (secondo Arianna Brandolini)
+* *Uno, nessuno e centomila* di Luigi Pirandello
+* La [*Fenomenologia dello spirito*](Filosofia/Hegel.html#la-fenomenologia-dello-spirito)
 
 ###Ammettere le qualità del nemico
 * Livio, che riconosce la possanza e la brillante strategia militare di Annibale nella battaglia di Canne
@@ -75,5 +77,3 @@
 ###Infierire sui vinti
 * Il [trattato di Versailles](Storia/Prima guerra mondiale.html#il-trattato-di-versailles) causò l'ascesa di Htiter (e quindi la seconda guerra mondiale) con le sue sanzioni pesantissime.
 * A Roma vigeva il detto "parcere subiectis, debellare superbos" e molti leader romani utilizzarono la *clementia* per non farsi troppi nemici.
-
-<script> window.scroll(0,200000) </script> 
