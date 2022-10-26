@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'handwritten';
-    src: url('HandwritingCR\ Medium.ttf');
+    src: url(./"HandwritingCR Medium.ttf");
 }
 
 body {
