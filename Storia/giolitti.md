@@ -56,6 +56,7 @@ Il <big>4 febbraio 1901</big>, in Parlamento, Giolitti stronca Saracco con un [d
 ##Legislatura Zanardelli (<big>1901-1903</big>)
 
 Il Re fa creare il nuovo governo a **Giuseppe Zanardelli**. Questa legislatura:
+
 * Migliora le leggi sulle **assicurazioni di vecchiaia** (le odierne pensioni, istituite alla fine del 1800)
 * Limita gli **orari di lavoro**
 * Incoraggia la collaborazione tra lo Stato e i sindacati
