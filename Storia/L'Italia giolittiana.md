@@ -51,7 +51,7 @@ Il <big>4 febbraio 1901</big>, in Parlamento, Giolitti stronca Saracco con un [d
 
 <div class=box>Era abitudine dei Primi Ministri italiani dimettersi quando non avevano più il consenso del Parlamento.</div>
 
-<div class=box>Nel 1919, quando venne fondato il Partito Popolare Italiano, Giolitti criticherà la scelta di Don Luigi Sturzo come segretario, ritenendolo troppo un semplice prete di strada inadatto a dirigere una lista. Non dobbiamo quindi ritenere Giolitti un progressista: semplicemente desiderava uno Stato imparziale.</div>
+<div class=box>Nel 1919, quando venne fondato il Partito Popolare Italiano, Giolitti criticherà la scelta di Don Luigi Sturzo come segretario, ritenendo un semplice prete di strada inadatto a dirigere una lista. Non dobbiamo quindi ritenere Giolitti un progressista: semplicemente desiderava uno Stato imparziale.</div>
 
 ##Legislatura Zanardelli (<big>1901-1903</big>)
 
