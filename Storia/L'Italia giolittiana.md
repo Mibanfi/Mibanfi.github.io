@@ -80,4 +80,4 @@ Giolitti propose un progetto di **statalizzazione** che però venne respinto poi
 ##Legislatura Giolitti IV (<big>1911-1914</big>)
 * **Legge Daneo-Credaro:** la responsabilità dell'obbligo di istruzione elementare ritorna dai comuni allo Stato
 
-<b><big>1911:</big> Suffragio universale maschile</b> (dai 30 anni in su)
+<span class=data>1911</span> Suffragio universale maschile</b> (dai 30 anni in su)
