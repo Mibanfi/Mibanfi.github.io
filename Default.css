@@ -10,10 +10,12 @@
 body {
     margin: 20px;
     background-image: url("white-paper-texture.jpg")
+    color: black;
 }
 
 html, form, fieldset, table, tr, td, img {
     font-family: 'handwritten';
+    color: black;
 }
 
 input, button, select, textarea, optgroup, option {
